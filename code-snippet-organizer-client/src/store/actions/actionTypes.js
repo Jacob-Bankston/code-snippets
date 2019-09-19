@@ -1,0 +1,4 @@
+export const ADD_SNIPPET = "ADD_SNIPPET";
+export const VIEW_SNIPPET_LIST = "VIEW_SNIPPET_LIST";
+export const UPDATE_SNIPPET = "UPDATE_SNIPPET";
+export const DELETE_SNIPPET = "DELETE_SNIPPET";
